@@ -273,11 +273,11 @@ main div div span {
     padding-bottom: 30px;
 }
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
     * {
         display: none;
     }
-}
+} */
 
 /* signup form stylling */
 
