@@ -52,10 +52,6 @@ body {
     border-radius: 20px;
 }
 
-.active {
-    background-color: #ff36e8;
-}
-
 .forhover:hover {
     background-color: #00ffbf;
     color: #000;
